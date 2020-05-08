@@ -36,6 +36,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+- at its most basic, its simply html, organized in a way thats easy to read.
+
 2. What are the 4 areas of the box model?
 
 - Content padding border margin
