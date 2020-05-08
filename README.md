@@ -38,11 +38,19 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. What are the 4 areas of the box model?
 
+- Content padding border margin
+
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+the cross axis on th ecurrent line
 
 4. Explain why git is valuable to a team of developers.
 
+- Git is valuable because it lets a group of people work on the same project without ruining the main project and it gives developers the ability to revert to a working version.
+
 5. Define mobile-first design in your own words.
+
+- A mobile first design is a webstie designed for mobile browsers first, and desktop second.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
